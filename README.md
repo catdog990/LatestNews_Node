@@ -1,4 +1,4 @@
-# LatestNews_Node
+# Novafy
 
 Get the latest 12 news and stories everyone is talking about from The New York Times, FOX News, ESPN and Twitter.
 
